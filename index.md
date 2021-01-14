@@ -2,7 +2,7 @@
 
 Главная страничка
 
-Файлы реферата(https://github.com/EgDanNumberOne/REFERAT/blob/main/LICENSE)
+[Файлы реферата](https://github.com/EgDanNumberOne/REFERAT/blob/main/LICENSE)
 
 Файлы публикации
 
