@@ -1,6 +1,14 @@
-# Главная страница сайта
+# Главная страница сайта EgDanNumberOne.github.io
 
-You can use the [editor on GitHub](https://github.com/EgDanNumberOne/REFERAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Главная страничка
+
+Файлы реферата(https://github.com/EgDanNumberOne/REFERAT/blob/main/%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82%20%D0%98%D0%A2.docx)
+
+Файлы публикации
+
+
+
+[editor on GitHub](https://github.com/EgDanNumberOne/REFERAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
