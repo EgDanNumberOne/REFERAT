@@ -7,3 +7,5 @@
 - [Файлы на GitHub](https://github.com/EgDanNumberOne/REFERAT)
 
 - [Отчет](https://egdannumberone.github.io/REFERAT/report)
+
+![](https://memchik.ru/images/mems/5c4f4f900b6ef.jpg)
