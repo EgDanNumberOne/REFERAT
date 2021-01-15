@@ -6,6 +6,6 @@
 
 - [Файлы на GitHub](https://github.com/EgDanNumberOne/REFERAT)
 
-- [Отчет](https://egdannumberone.github.io/REFERAT/report)
+- [Отчет](https://egdannumberone.github.io/REFERAT/Отчет%20по%20ИТ.pdf)
 
 ![](https://memchik.ru/images/mems/5c4f4f900b6ef.jpg)
